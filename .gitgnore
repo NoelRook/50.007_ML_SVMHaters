@@ -1,1 +1,3 @@
-50-007-machine-learning-spring-2026
+*.csv
+
+.venv
